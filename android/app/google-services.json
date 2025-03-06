@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "153503407929",
+    "project_id": "darshan-m-s",
+    "storage_bucket": "darshan-m-s.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153503407929:android:aaa0128964cd0864ecd2e8",
+        "android_client_info": {
+          "package_name": "com.example.darshan_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXJpz2il1SKBKSCsbIlqubHpNzzM9bThY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
